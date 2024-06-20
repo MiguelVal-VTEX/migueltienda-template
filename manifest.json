@@ -1,7 +1,7 @@
 {
   "vendor": "migueltienda41",
   "name": "miguel-theme",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
@@ -64,7 +64,6 @@
     "vtex.condition-layout": "2.x",
     "vtex.css-handles": "1.x"
   },
-  "peerDependencies": {
-  },
+  "peerDependencies": {},
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
